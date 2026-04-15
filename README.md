@@ -1,3 +1,5 @@
+<img src="left.png" width="15%" height="15%" align="left">
+
 <img src="https://github.com/The-Blue-Streak/The-Blue-Streak/blob/18f35d1f2601e481a9389689cfbfed44c54416c4/imagen_2026-04-15_183821515.png" width="15%" height="15%" align="center">
 
 <img src="brooke.png" width="400" height="500" alt="Brooke from VS Ourple Guy" class="class" align="left">
