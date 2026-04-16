@@ -16,6 +16,6 @@
     <img src="brooke 2.gif" alt="Blinkie: car, text says Speed Demon">
     <img src="brooke 3.gif" alt="Blinkie: Flower Power">
     <img src="brooke 4.gif" alt="Blinkie: destroy government property">
-    <img src="brooke 5.gif" alt="Blinkie: you're too slow">
+    <img src="brooke 5.gif" alt="Blinkie: you're too slow" width="15%">
     <img src="brooke 6.gif" alt="Blinkie: i <3 purple guy">
 </div>
