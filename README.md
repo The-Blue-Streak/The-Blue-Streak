@@ -15,4 +15,5 @@
     <img src="brooke 1.gif" alt="Blinkie: trombone, text says boner">
     <img src="brooke 2.gif" alt="Blinkie: car, text says Speed Demon">
     <img src="brooke 3.gif" alt="Blinkie: Flower Power">
+    <img src="brooke 4.gif" alt="Blinkie: destroy government property">
 </div>
