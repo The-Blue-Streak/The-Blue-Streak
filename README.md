@@ -1,5 +1,5 @@
 <img src="left.png" width="15%" height="15%" align="left"> <img src="right.png" width="15%" height="15%" align="right">
-<p align="center" width="100%"> <img width="22%" src="waitforme.png"></p>
+<p align="center" width="100%"> <img width="33%" src="waitforme.png"></p>
 
 
 <img src="brooke.png" width="400" height="500" alt="Brooke from VS Ourple Guy" class="class" align="left">
