@@ -8,7 +8,7 @@
 <p/> Funky/Blue
 <p/> " Howdy! my name is Funky, you can also call me Blue, i'm a very huge Sonic fan and also FNF fan you can mostly see me around sonic zone making skins or being with my Gf!!, if you want to be friends be welcome to talk to me even tho i have very low social battery and i'm most of the times very timid-
   
-  $\color{blue}{\small{DUDE NOBODY TOLD ME THE MCRIB WAS BACK I WOULD'VE GPOTTEN IT SO MUCH EARLYer}}$
+  $\color{blue}{\scriptsize{DUDE NOBODY TOLD ME THE MCRIB WAS BACK I WOULD'VE GPOTTEN IT SO MUCH EARLYer}}$
 
 
 <div class="blinkies">
