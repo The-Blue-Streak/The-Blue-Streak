@@ -19,4 +19,6 @@
     <img src="brooke 7.gif" alt="Blinkie: callie fan!">
     <img src="brooke 6.gif" alt="Blinkie: i <3 purple guy">
     <img src="brooke 8.gif" alt="Blinkie: i always come back">
+    <img src="brooke 9.gif" alt="Blinkie: despite everything its still you">
+    <img src="brooke 10.gif" alt="Blinkie: stressed">
 </div>
