@@ -1,5 +1,4 @@
 # 🦔‧₊˚✩彡
-  <img src="STFSketchhogDance.gif" width="10%" height="10%" align="right">
 
 
 <img src="SonicSTF.png" width="400" height="500" alt="ME" class="class" align="left">
@@ -21,3 +20,5 @@
     <img src="brooke 9.gif" alt="Blinkie: despite everything its still you">
     <img src="brooke 10.gif" alt="Blinkie: stressed">
 </div>
+
+<img src="STFSketchhogDance.gif" width="10%" height="10%" align="right">
