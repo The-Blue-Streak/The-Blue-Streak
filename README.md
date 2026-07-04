@@ -1,5 +1,5 @@
 # 🦔‧₊˚✩彡
-<img src="STFSketchhogDance.gif" width="15%" height="15%" align="right">
+  <img src="STFSketchhogDance.gif" width="10%" height="10%" align="right">
 
 
 <img src="SonicSTF.png" width="400" height="500" alt="ME" class="class" align="left">
